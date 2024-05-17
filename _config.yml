@@ -1,0 +1,9 @@
+# site settings
+title: Under Consideration
+author:
+ name: Max Mustermann
+ email:
+description: "Example site"
+
+# Build settings
+remote_theme: jekyll/minima
