@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: dark
 title: About
+example: Example text 
 ---
+
+This page describes the {{site.title}} by {{site.author.name}}.
+{{page.example}}
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper integer justo, congue varius imperdiet rhoncus maecenas dignissim hendrerit praesent tempor, aenean sociis parturient ut molestie habitant torquent tincidunt facilisis. Gravida odio pharetra nascetur aliquam placerat vulputate nostra cursus cras feugiat, maecenas penatibus iaculis parturient faucibus facilisis lectus nisl pretium montes, risus tempus varius blandit bibendum malesuada arcu purus rutrum. Etiam pharetra morbi nibh diam mi himenaeos odio pretium mauris, luctus sapien porttitor sed turpis eu molestie suscipit ultricies, iaculis quis suspendisse magna ac at congue hac.
 
